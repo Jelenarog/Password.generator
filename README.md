@@ -12,14 +12,14 @@ git clone git@github.com:Jelenarog/Password-Generator.git
 ```
 ---
 ## Usage
-![User-story](.//friendly-parakeet/Assets/Images/User-story.png)
+![User-story](./Asstes/Images/User-story.png)
 
 ---
 ## Links
-[Github Repository Link](https://github.com/Jelenarog/Password-Generator)<br/>
- [Deployed website]()<br/>
- [HTML code](.//friendly-parakeet/Assets/Images/HTML%20code.png)<br/>
- [Jva script](.//friendly-parakeet/Assets/Images/Java%20script.png)
+[Github Repository Link](https://github.com/Jelenarog/Password.generator)<br/>
+ [Deployed website](https://jelenarog.github.io/Password.generator/)<br/>
+ [HTML code](./Asstes/Images/HTML%20code.png)<br/>
+ [Jva script](.//Asstes/Images/Java%20script.png)
 
  ---
 

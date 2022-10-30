@@ -8,7 +8,7 @@ User can choose the length of password anywhere from 8-128 characters long and h
 ## Installation 
 * Clone the repository  
 ```
-git clone git@github.com:Jelenarog/Password-Generator.git
+git clone git@github.com:Jelenarog/Password.generator.git
 ```
 ---
 ## Usage
